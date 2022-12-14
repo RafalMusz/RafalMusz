@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rafał Muszalik
-- 👀 I’m interested in Space
+- 👀 I’m interested in Space science
 - 🌱 I’m currently learning Python and JavaScript
 - 
 -
